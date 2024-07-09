@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFJ4p1FULxnkrUOGTJHte7tW5b6DmK0PVe7byBDlr7B/bHYF2gFtrbGpLlIZcZ4H1fnM9llbuyhnESt4w2wh5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\source\\repos\\HexMineSweeper\\HexMineSweeper\\HexMineSweeper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
